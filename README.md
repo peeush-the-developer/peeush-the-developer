@@ -38,13 +38,11 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <table>
      <tr>
-          <td width="50%"><img src ="https://github-readme-stats.vercel.app/api?username=peeush-the-developer&show_icons=true&theme=gotham" /></td>
-          <td><img src ="https://github-readme-streak-stats.herokuapp.com?user=peeush-the-developer&theme=gotham" /></td>
+          <td width="50%"><img src ="https://github-readme-stats.vercel.app/api?username=peeush-the-developer&show_icons=true&theme=gotham&hide_border=true" /></td>
+          <td><img src ="https://github-readme-streak-stats.herokuapp.com?user=peeush-the-developer&theme=gotham&hide_border=true" /></td>
      </tr>
-</table>
-<table>
      <tr>
-          <td  width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeush-the-developer&theme=gotham&hide=shell,jupyter%20notebook&langs_count=3&layout=compact" alt="Most used languages" /></td>
-          <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=peeushagarwal&theme=gotham&layout=compact" alt="Peeush's wakatime stats" /></td>
+          <td  width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeush-the-developer&theme=gotham&hide=shell,jupyter%20notebook&langs_count=3&layout=compact&hide_border=true" alt="Most used languages" /></td>
+          <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=peeushagarwal&theme=gotham&layout=compact&hide_border=true" alt="Peeush's wakatime stats" /></td>
      </tr>
 </table>
