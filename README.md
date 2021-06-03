@@ -2,7 +2,17 @@
 
 # Hello, folks! <img src="Assets/wave.gif" width="30px">
 
-My name is Peeush Agarwal and I'm a .NET software developer. I'm from India and currently working at EuroForm A/S. You can find me on [![Peeush Agarwal | LinkedIn][3.2]][3].
+- I'm Peeush Agarwal, .NET software developer and learner in Data science field.
+- I'm from India and currently working at EuroForm A/S.
+
+[![Linkedin Badge](https://img.shields.io/badge/-PeeushAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peeushagarwal/)](https://www.linkedin.com/in/peeushagarwal/)
+[![Instagram Badge](https://img.shields.io/badge/-peeushagarwal-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/peeushagarwal/)](https://www.instagram.com/peeushagarwal/)
+[![Website Badge](https://img.shields.io/badge/-peeush.agarwal.dev-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://peeush.agarwal.dev/)](https://peeush.agarwal.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-agarwal.peeush-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwal.peeush@gmail.com)](mailto:agarwal.peeush@gmail.com)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=peeush-the-developer.peeush-the-developer)
+
+<br/>
 
 ## &#x270d; Blog & Writing
 
@@ -22,35 +32,13 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 ## &#x1f4c8; GitHub Stats
 
-[![Peeush Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeush-the-developer&show_icons=true&theme=vue-dark)](https://github.com/peeush-the-developer/)
-
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peeush-the-developer&theme=vue-dark&hide=shell&langs_count=3&layout=compact)](https://github.com/peeush-the-developer/)
-
-[![Peeush Agarwal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peeushagarwal&theme=vue-dark)](https://github.com/peeush-the-developer/)
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: Assets/linkedin-3-16.png "LinkedIn icon without padding"
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/
-[2]: https://github.com/peeush-the-developer
-[3]: https://www.linkedin.com/in/peeushagarwal/
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<table class="table table-borderless">
+     <tr>
+          <td><img src="https://github-readme-stats.vercel.app/api?username=peeush-the-developer&show_icons=true&theme=gotham" alt="Peeush's Github stats" /></td>
+          <td><img src ="https://github-readme-streak-stats.herokuapp.com?user=peeush-the-developer&theme=gotham" /></td>
+     </tr>
+     <tr>
+          <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeush-the-developer&theme=gotham&hide=shell,jupyter%20notebook&langs_count=3" alt="Most used languages" /></td>
+          <td align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=peeushagarwal&theme=gotham&layout=compact" alt="Peeush's wakatime stats" /></td>
+     </tr>
+</table>
