@@ -1,6 +1,6 @@
 [![Header](Assets/GH-Banner.png "Header")](https://peeush-the-developer.github.io/)
 
-# Hello, folks! <img src="Assets/wave.gif" width="30px">
+## <img src="Assets/wave.gif" width="30px"> Hello, folks!
 
 - I'm Peeush Agarwal, .NET software developer and learner in Data science field.
 - I'm from India and currently working at EuroForm A/S.
