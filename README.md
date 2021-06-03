@@ -18,6 +18,8 @@
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://peeushagarwal.medium.com/).
 
+<br/>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-C--Sharp-informational?style=flat&logo=dot-net&logoColor=white&color=2bbc8a)
@@ -29,6 +31,8 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat&logo=power-bi&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+
+<br/>
 
 ## &#x1f4c8; GitHub Stats
 
