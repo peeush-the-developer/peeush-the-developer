@@ -18,6 +18,10 @@
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://peeushagarwal.medium.com/).
 
++ [Data Collection: Web Scraping](https://peeushagarwal.medium.com/data-collection-web-scraping-de369ce41a34)
++ [OpenCV: A powerful toolkit](https://medium.com/analytics-vidhya/opencv-a-powerful-toolkit-963bae69e595)
++ [Understanding Cross-Validation](https://medium.com/into-the-ai/understanding-cross-validation-6e133f764130)
+
 <br/>
 
 ## 🔧 Technologies & Tools
