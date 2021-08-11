@@ -14,6 +14,18 @@
 
 <br/>
 
+## &#x270d; DataScience work
+
+Following are the main projects that I've recently worked on:
+
++ [NLP: IMDb Movie Similarity](https://www.kaggle.com/peeushthedeveloper/similarity-from-plot-summaries)
++ [ML: Calories Burnt prediction](https://www.kaggle.com/peeushthedeveloper/calories-exercise-prediction-with-r2-0-998)
++ [ML: MNIST Tabular dataset](https://github.com/peeush-the-developer/projects-on-data-science/tree/main/Machine-Learning/02-MNIST)
++ [Web Scraping: Book prices](https://github.com/peeush-the-developer/projects-on-data-science/tree/main/Web-Scraping/03-Book-Price-Scraping)
++ [Computer Vision: Pencil sketch](https://github.com/peeush-the-developer/projects-on-data-science/tree/main/Computer-Vision/01-Pencil-Sketch-From-Image)
+
+<br/>
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://peeushagarwal.medium.com/).
