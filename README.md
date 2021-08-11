@@ -14,7 +14,7 @@
 
 <br/>
 
-## &#x270d; DataScience work
+## &#x2714; DataScience work
 
 Following are the main projects that I've recently worked on:
 
